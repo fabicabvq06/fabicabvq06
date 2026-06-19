@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fabicabvq06/fabicabvq06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fabio Carballo
 
-Here are some ideas to get you started:
+*Keeping systems running, deployments smooth, and developers productive.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About Me
+
+I'm a DevOps enthusiast focused on infrastructure, automation, and cloud-native technologies.
+
+I enjoy building reliable deployment pipelines, improving development workflows, and creating environments that help teams move faster and safer.
+
+My interests include CI/CD, containers, infrastructure automation, observability, and platform engineering.
+
+## Current Focus
+
+- Infrastructure as Code
+- CI/CD Automation
+- Containerized Applications
+- Cloud Platforms
+- Monitoring & Reliability
+- Developer Experience
+
+## Technologies
+
+<div align="center">
+  <img height="50rem" src="https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,bash,python,nodejs,git,github,linux"/>
+</div>
+
+## Philosophy
+
+> Automate repetitive work.
+>
+> Build reliable systems.
+>
+> Leave every deployment better than the last.
+
+---
+
+<div align="center">
+
+### Always learning, always improving.
+
+</div>
